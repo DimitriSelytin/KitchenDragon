@@ -3,7 +3,9 @@ Currently, this is a project that I quickly made to give a base understanding of
 
 To run project:
 > yarn install
+
 > yarn start
+
 will run on port 3000
 
 
